@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86e58565-a1ee-48f9-a7af-04d788cd7f04" name="Default" comment="Added deployment scripts">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,8 +141,8 @@
         <option value="$PROJECT_DIR$/k8s/server-deployment.yml" />
         <option value="$PROJECT_DIR$/k8s/worker-deployment.yml" />
         <option value="$PROJECT_DIR$/k8s/ingress-service.yml" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/deploy.sh" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -329,7 +329,7 @@
       <workItem from="1583760610858" duration="20000" />
       <workItem from="1585178282728" duration="2027000" />
       <workItem from="1585231076000" duration="399000" />
-      <workItem from="1592082325242" duration="1838000" />
+      <workItem from="1592082325242" duration="2262000" />
     </task>
     <task id="LOCAL-00001" summary="Added deployment scripts">
       <created>1592090633890</created>
@@ -342,7 +342,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23567000" />
+    <option name="totallyTimeSpent" value="23991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="453" y="129" width="3044" height="1602" extended-state="0" />
